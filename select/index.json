@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ともだちごっこ",
+  "base_artist": "岡咲美保",
+  "createdAt": "2025-12-26T23:58:00.677102Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ともだちごっこ",
+      "artist": "岡咲美保",
+      "has_synced": false,
+      "path": "select/pl_01_ともだちごっこ_岡咲美保.txt"
+    }
+  ]
+}
